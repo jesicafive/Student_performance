@@ -1,3 +1,19 @@
+''' Student Performance Analyzer
+
+A simple Python program to calculate total marks, average,
+and pass/fail status of students using dictionaries
+and conditional statements.
+
+## Technologies
+- Python
+
+## Concepts Used
+- Lists
+- Dictionaries
+- Loops
+- Conditional statements
+'''
+
 student1=(
     {"Name":"Anika", "Maths":76, "English":46, "Science":34
     })
@@ -20,3 +36,4 @@ if(Average_2 >= 40):
     print("Minakshi passed")
 else:
     print("Minakshi failed")
+
